@@ -15,15 +15,6 @@ Generate personalized product recommendations
 
 Optimize marketing strategies
 
-📊 Sample Visualizations
-Customer Cluster Distribution
-https://WhatsApp%2520Image%25202025-10-26%2520at%252015.45.42_cabcdd10.jpg
-
-Insight: The chart shows the distribution of customers across the three identified clusters, helping understand the size and proportion of each customer segment.
-
-Average Spend per Cluster
-https://WhatsApp%2520Image%25202025-10-26%2520at%252015.45.42_90d15dbc.jpg
-
 Insight: This visualization clearly demonstrates the spending patterns across different clusters, showing Cluster 1 as the highest spending group, followed by Cluster 2 and Cluster 0.
 
 📁 Project Structure
